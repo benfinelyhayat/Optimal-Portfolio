@@ -2,6 +2,8 @@
 Using MPT to create a portfolio; this is for port opt demonstration so will use basic methods for sample mean and sd but can easily incorporate methods such as rolling means and such to the model with minimal tweaking.
 this is just a demonstration so will use pseudo stats. 
 ## N risky assets, with return given.
+https://quantmathreadme.blogspot.com/2025/08/optimal-portfolio-theory.html
+
 ```
 import numpy as np
 individual_sd_matrix = np.array([
